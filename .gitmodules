@@ -4,3 +4,6 @@
 [submodule "CapstoneProjects/personal-cv"]
 	path = CapstoneProjects/personal-cv
 	url = https://github.com/ammar-alsuhaimi/WebBootcamp-CV.git
+[submodule "CapstoneProjects/personal-site"]
+	path = CapstoneProjects/personal-site
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalSite.git
