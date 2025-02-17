@@ -34,9 +34,6 @@ Here’s a quick guide to help you navigate through the repository and make the 
 We hope this guide helps you navigate through the bootcamp effectively. Happy learning!
 
 ---
-Of course! Here is a heartfelt thank-you letter for your mentor and teacher, Mr. Von Schappler:
-
----
 
 Dear Mr. Von Schappler,
 
