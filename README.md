@@ -5,7 +5,7 @@ Welcome to the Web Development Bootcamp! Here’s a quick guide to help you navi
 ## Getting Started
 
 1. **Check the Wiki First**:
-   - Begin by visiting the [Wiki](https://github.com/your-repository/wiki) section of this repository.
+   - Begin by visiting the [Wiki](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki) section of this repository.
    - The Wiki contains detailed notes and explanations from Section 01 to Section 27.
    - Each section is filled with valuable information to help you understand the concepts.
 
