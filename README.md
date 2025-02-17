@@ -73,7 +73,9 @@ With heartfelt thanks,
 
 ## Final Note
 
-The Web Development Bootcamp will be continuously updated and modified in the future. I hope you enjoy everything I upload as part of my journey. 
+The Web Development Bootcamp will be continuously updated and modified in the future. 
+
+I hope you enjoy everything I upload as part of my journey. 
 
 **This course will take time to finish and also take time to organize and upload. 
 
