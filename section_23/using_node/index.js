@@ -1,7 +1,5 @@
-//console.log('hello from Node!')
-
-
 import express from 'express'; // Use ES module syntax for import
+
 const app = express();
 const PORT = process.env.PORT || 3000;
 
