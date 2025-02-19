@@ -1,11 +1,15 @@
-#animationBox {
-    width: 100px;
-    height: 100px;
-    background-color: blue;
-    position: relative;
-  }
-  .highlight {
-    background-color: yellow;
-    font-weight: bold;
-  }
-  
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+}
+
+#dataDisplay {
+    margin-top: 20px;
+    border: 1px solid #333;
+    padding: 10px;
+}
