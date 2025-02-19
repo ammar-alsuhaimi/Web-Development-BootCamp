@@ -12,8 +12,19 @@ h1 {
     margin-bottom: 20px;
 }
 
+.task-input {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
 button {
-    margin: 5px;
     padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
@@ -27,31 +38,31 @@ button: hover {
     background-color: #45a049;
 }
 
-input[type="text"] {
-    padding: 10px;
-    margin: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 200px;
-}
-
-#itemList {
+#taskList {
     list-style-type: none;
     padding: 0;
+    margin: 0 auto;
+    max-width: 400px;
 }
 
-#itemList li {
+#taskList li {
     padding: 10px;
     border-bottom: 1px solid #ddd;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
 }
 
-#itemList li:nth-child(odd) {
-    background-color: #f2f2f2;
+#taskList li.completed {
+    background-color: #d3ffd3;
+    text-decoration: line-through;
 }
 
-.removeItemBtn {
+.removeTaskBtn {
     background-color: #ff4d4d;
     color: white;
     border: none;
@@ -61,14 +72,15 @@ input[type="text"] {
     transition: background-color 0.3s;
 }
 
-.removeItemBtn:hover {
+.removeTaskBtn:hover {
     background-color: #ff1a1a;
 }
 
-#dataDisplay {
+#quoteDisplay {
     margin-top: 20px;
     border: 1px solid #333;
     padding: 10px;
     background-color: #fff;
     border-radius: 5px;
+    text-align: center;
 }
