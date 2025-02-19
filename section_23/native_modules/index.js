@@ -1,7 +1,6 @@
 import express from 'express';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
 
 // Temporary storage for messages (in-memory)
 let messages = [];
@@ -9,6 +8,7 @@ let messages = [];
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+// Endpoint to show the form
 app.get('/', (req, res) => {
   res.send(`
     <form action="/submit" method="POST">
@@ -19,9 +19,16 @@ app.get('/', (req, res) => {
   `);
 });
 
+// Endpoint to handle form submission
 app.post('/submit', (req, res) => {
   const message = req.body.message;
 
-  // Store message in-memory (temporary)
-  messages.push
+  // Store the message in-memory (temporary storage)
+  messages.push(message);
+
+  // Send a response to the user
+  res.send(`<h1>${message}</h1><p>The message has been saved temporarily!</p>`);
 });
+
+// Export the Express app for Vercel serverless functions
+export default app;
