@@ -1,9 +1,10 @@
 import express from 'express';
-import fs from 'fs';
-import { createServer } from 'http';
-import { parse } from 'url';
 
 const app = express();
+const PORT = process.env.PORT || 3000;
+
+// Temporary storage for messages (in-memory)
+let messages = [];
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -21,10 +22,6 @@ app.get('/', (req, res) => {
 app.post('/submit', (req, res) => {
   const message = req.body.message;
 
-  fs.writeFile('message.txt', message, (err) => {
-    if (err) throw err;
-    res.send(`<h1>${message}</h1><p>The message has been saved!</p>`);
-  });
+  // Store message in-memory (temporary)
+  messages.push
 });
-
-export default app;
