@@ -1,4 +1,4 @@
-const express = require('express'); // Use CommonJS require
+import express from 'express'; // Use ES module syntax for import
 
 const app = express();
 const PORT = process.env.PORT || 3000;
