@@ -1,14 +1,17 @@
-//import generateName from "sillyname";
-//var sillyName = generateName();
+import express from 'express';
+import { randomSuperhero } from 'superheroes';
 
-//console.log(`my name is ${sillyName}`);
-//import superheroes from "superheroes";
+const app = express();
+const PORT = process.env.PORT || 3000;
 
-//const name = superheroes.random();
-//console.log(`I am ${name}!`);
+app.get('/', (req, res) => {
+  const mySuperHeroName = randomSuperhero();
+  res.send(`I am ${mySuperHeroName}`);
+});
 
-import {randomSuperhero} from "superheroes";
- 
-var mySuperHeroName = randomSuperhero();
- 
-console.log("I am " + mySuperHeroName);
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
+
+// Export the app for Vercel
+export default app;
