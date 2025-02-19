@@ -1,9 +1,9 @@
 import express from 'express';
 import fs from 'fs';
-import inquirer from 'inquirer';
+import { createServer } from 'http';
+import { parse } from 'url';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -27,6 +27,4 @@ app.post('/submit', (req, res) => {
   });
 });
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+export default app;
