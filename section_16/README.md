@@ -8,7 +8,7 @@ Through this project, I aimed to apply and extend the concepts learned in the co
 
 ## Project Title
 
-[DOM Manipulation]
+[DOM Manipulation Example]
 
 ## Description
 
