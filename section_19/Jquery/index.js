@@ -1,46 +1,30 @@
 $(document).ready(function() {
-    // Change text of paragraph
-    $('#changeText').click(function() {
-      $('#paragraph').text('The text has been changed!');
+    // Add new item to the list
+    $('#addItemBtn').click(function() {
+        const newItemText = $('#newItem').val();
+        if (newItemText !== '') {
+            $('#itemList').append('<li>' + newItemText + ' <button class="removeItemBtn">Remove</button></li>');
+            $('#newItem').val('');
+        }
     });
-  
-    // Add class to paragraph
-    $('#addClass').click(function() {
-      $('#paragraph').addClass('highlight');
+
+    // Remove item from the list
+    $('#itemList').on('click', '.removeItemBtn', function() {
+        $(this).parent().remove();
     });
-  
-    // Remove class from paragraph
-    $('#removeClass').click(function() {
-      $('#paragraph').removeClass('highlight');
+
+    // Fetch data from an external API and display it
+    $('#fetchDataBtn').click(function() {
+        $('#dataDisplay').html('Fetching data...');
+        $.ajax({
+            url: 'https://jsonplaceholder.typicode.com/posts/1',
+            method: 'GET',
+            success: function(data) {
+                $('#dataDisplay').html('<p>Title: ' + data.title + '</p><p>Body: ' + data.body + '</p>');
+            },
+            error: function() {
+                $('#dataDisplay').html('An error occurred while fetching data.');
+            }
+        });
     });
-  
-    // Toggle class on paragraph
-    $('#toggleClass').click(function() {
-      $('#paragraph').toggleClass('highlight');
-    });
-  
-    // Change attribute of image
-    $('#changeAttr').click(function() {
-      $('#image').attr('src', 'https://via.placeholder.com/300');
-    });
-  
-    // Add new element
-    $('#addElement').click(function() {
-      $('<p>New element added!</p>').appendTo('body');
-    });
-  
-    // Remove last element
-    $('#removeElement').click(function() {
-      $('p').last().remove();
-    });
-  
-    // Animate the box
-    $('#animate').click(function() {
-      $('#animationBox').animate({
-        left: '+=100px',
-        height: '+=50px',
-        width: '+=50px'
-      });
-    });
-  });
-  
+});
