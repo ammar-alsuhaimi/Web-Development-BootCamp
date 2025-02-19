@@ -1,29 +1,37 @@
 $(document).ready(function() {
-    // Add new item to the list
-    $('#addItemBtn').click(function() {
-        const newItemText = $('#newItem').val();
-        if (newItemText !== '') {
-            $('#itemList').append('<li>' + newItemText + ' <button class="removeItemBtn">Remove</button></li>');
-            $('#newItem').val('');
+    // Add new task to the list
+    $('#addTaskBtn').click(function() {
+        const taskText = $('#taskInput').val();
+        if (taskText !== '') {
+            const taskItem = $('<li>' + taskText + ' <button class="completeTaskBtn">Complete</button> <button class="removeTaskBtn">Remove</button></li>');
+            $('#taskList').append(taskItem);
+            $('#taskInput').val('');
         }
     });
 
-    // Remove item from the list
-    $('#itemList').on('click', '.removeItemBtn', function() {
-        $(this).parent().remove();
+    // Complete task
+    $('#taskList').on('click', '.completeTaskBtn', function() {
+        $(this).parent().toggleClass('completed');
     });
 
-    // Fetch data from an external API and display it
-    $('#fetchDataBtn').click(function() {
-        $('#dataDisplay').html('Fetching data...');
+    // Remove task
+    $('#taskList').on('click', '.removeTaskBtn', function() {
+        $(this).parent().fadeOut(300, function() {
+            $(this).remove();
+        });
+    });
+
+    // Fetch a motivational quote from an external API and display it
+    $('#fetchQuoteBtn').click(function() {
+        $('#quoteDisplay').html('Fetching quote...');
         $.ajax({
-            url: 'https://jsonplaceholder.typicode.com/posts/1',
+            url: 'https://api.quotable.io/random',
             method: 'GET',
             success: function(data) {
-                $('#dataDisplay').html('<p>Title: ' + data.title + '</p><p>Body: ' + data.body + '</p>');
+                $('#quoteDisplay').html('<p>"' + data.content + '"</p><p>- ' + data.author + '</p>');
             },
             error: function() {
-                $('#dataDisplay').html('An error occurred while fetching data.');
+                $('#quoteDisplay').html('An error occurred while fetching the quote.');
             }
         });
     });
