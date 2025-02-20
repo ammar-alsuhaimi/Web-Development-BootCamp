@@ -75,12 +75,14 @@ The package is licensed under the MIT License.
 
 FAQ
 How do I install the library?
+
 Follow the installation steps provided above to clone the repository and install dependencies.
 
 ---
 
 Who maintains this project?
 The project is maintained by the Superheroes team. 
+
 Feel free to reach out via GitHub issues for any questions or concerns.
 
 ---
