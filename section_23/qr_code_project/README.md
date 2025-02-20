@@ -102,7 +102,5 @@ Follow the installation steps provided above to clone the repository and install
 ### Who maintains this project?
 The project is maintained by the course project team. Feel free to reach out via GitHub issues for any questions or concerns.
 
-## Contact
-For any inquiries or support, please contact us at [your-email@example.com].
-```
+
 
