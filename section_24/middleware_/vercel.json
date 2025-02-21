@@ -1,80 +1,79 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "index1.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "index2.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "index3.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "index4.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "solution1.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "solution2.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "solution3.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "solution4.js",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "public/index.html",
-        "use": "@vercel/static"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/index1/(.*)",
-        "dest": "index1.js"
-      },
-      {
-        "src": "/index2/(.*)",
-        "dest": "index2.js"
-      },
-      {
-        "src": "/index3/(.*)",
-        "dest": "index3.js"
-      },
-      {
-        "src": "/index4/(.*)",
-        "dest": "index4.js"
-      },
-      {
-        "src": "/solution1/(.*)",
-        "dest": "solution1.js"
-      },
-      {
-        "src": "/solution2/(.*)",
-        "dest": "solution2.js"
-      },
-      {
-        "src": "/solution3/(.*)",
-        "dest": "solution3.js"
-      },
-      {
-        "src": "/solution4/(.*)",
-        "dest": "solution4.js"
-      },
-      {
-        "src": "/public/(.*)",
-        "dest": "/public/index.html"
-      }
-    ]
-  }
-  
+  "version": 2,
+  "builds": [
+    {
+      "src": "index1.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "index2.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "index3.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "index4.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "solution1.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "solution2.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "solution3.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "solution4.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "public/index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/index1/(.*)",
+      "dest": "index1.js"
+    },
+    {
+      "src": "/index2/(.*)",
+      "dest": "index2.js"
+    },
+    {
+      "src": "/index3/(.*)",
+      "dest": "index3.js"
+    },
+    {
+      "src": "/index4/(.*)",
+      "dest": "index4.js"
+    },
+    {
+      "src": "/solution1/(.*)",
+      "dest": "solution1.js"
+    },
+    {
+      "src": "/solution2/(.*)",
+      "dest": "solution2.js"
+    },
+    {
+      "src": "/solution3/(.*)",
+      "dest": "solution3.js"
+    },
+    {
+      "src": "/solution4/(.*)",
+      "dest": "solution4.js"
+    },
+    {
+      "src": "/public/(.*)",
+      "dest": "/public/index.html"
+    }
+  ]
+}
