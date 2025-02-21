@@ -1,26 +1,11 @@
 {
   "builds": [
     {
-      "src": "index1.js",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "index2.js",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "index3.js",
-      "use": "@vercel/node"
-    },
-    {
       "src": "index4.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
-    { "src": "/index1", "dest": "/index1.js" },
-    { "src": "/index2", "dest": "/index2.js" },
-    { "src": "/index3", "dest": "/index3.js" },
-    { "src": "/index4", "dest": "/index4.js" }
+    { "src": "/.*", "dest": "/index4.js" }
   ]
 }
