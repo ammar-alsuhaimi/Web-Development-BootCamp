@@ -1,8 +1,12 @@
 import express from "express";
 import bodyParser from "body-parser";
+import ejs from "ejs";
+
 
 const app = express();
 const port = 3000;
+
+app.set("view engine", "ejs");
 
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -5684,3 +5688,6 @@ const noun = [
   "zoot-suit",
   "zucchini",
 ];
+
+
+export default app;
