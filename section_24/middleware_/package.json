@@ -5,7 +5,16 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:index1": "node index1.js",
+    "start:index2": "node index2.js",
+    "start:index3": "node index3.js",
+    "start:index4": "node index4.js",
+    "start:solution1": "node solution1.js",
+    "start:solution2": "node solution2.js",
+    "start:solution3": "node solution3.js",
+    "start:solution4": "node solution4.js",
+    "start:public": "serve public"
   },
   "keywords": [],
   "author": "",
