@@ -5,10 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-  "start": "node solution.js",
-  "vercel-build": "echo 'Skipping build step'"
-},
-
+    "start": "node solution.js",
+    "vercel-build": "echo 'Skipping build step'"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
