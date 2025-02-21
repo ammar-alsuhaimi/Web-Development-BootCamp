@@ -36,6 +36,11 @@ router.post('/submit', bandNameGenerator, (req, res) => {
 // Use router
 app.use('/', router);
 
+app.use((req, res, next) => {
+  console.log(`Request path: ${req.path}`);
+  next();
+});
+
 // Start server
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
