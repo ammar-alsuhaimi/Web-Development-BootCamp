@@ -2,11 +2,11 @@
   "name": "4.0-ejs",
   "version": "1.0.0",
   "description": "",
-  "main": "solution.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node solution.js",
-    "dev": "nodemon solution.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
