@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: my-ejs-app
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
