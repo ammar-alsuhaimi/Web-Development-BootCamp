@@ -1,0 +1,25 @@
+{
+  "name": "tik-tok-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalkrishnaMishra02/Tik-Tok-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BalkrishnaMishra02/Tik-Tok-Game/issues"
+  },
+  "homepage": "https://github.com/BalkrishnaMishra02/Tik-Tok-Game#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
