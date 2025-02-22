@@ -3,8 +3,7 @@ import bodyParser from "body-parser";
 import ejs from "ejs";
 
 const app = express();
-const port = process.env.PORT || 3000; // Use Vercel's port
-
+const port = process.env.PORT || 3000;  // Use the port provided by Render or default to 3000
 // Move arrays BEFORE routes
 const adj = ["abandoned",
   "able",
@@ -5304,5 +5303,6 @@ app.post("/submit", (req, res) => {
   res.render("solution.ejs", { adjective: randomAdj, noun: randomNoun });
 });
 
-// Export for Vercel
-export default app;
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
+});
