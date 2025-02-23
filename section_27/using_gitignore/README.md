@@ -7,4 +7,4 @@ This project uses a `.gitignore` file to manage unnecessary files and directorie
 - **.env**: Excludes environment variables.
 - **npm-debug.log***: Excludes debug log files.
 
-You can find the full `.gitignore` file [here](link to your .gitignore file).
+You can find the full `.gitignore` file [here](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/blob/main/section_27/using_gitignore/.gitignore).
