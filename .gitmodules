@@ -8,3 +8,6 @@
 	path = CapstoneProjects/personal-site
 	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalSite.git
 
+[submodule "section_27/using_gitclone/MSI-Home-Page-Clone"]
+	path = section_27/using_gitclone/MSI-Home-Page-Clone
+	url = https://github.com/Mostafa-Nafie/MSI-Home-Page-Clone.git
