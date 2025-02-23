@@ -1,0 +1,9 @@
+[submodule "CapstoneProjects/personal-cv"]
+	path = CapstoneProjects/personal-cv
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-CV.git
+[submodule "CapstoneProjects/PersonalPortifolio"]
+	path = CapstoneProjects/PersonalPortifolio
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalPortifolio.git
+[submodule "CapstoneProjects/personal-site"]
+	path = CapstoneProjects/personal-site
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalSite.git
