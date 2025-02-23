@@ -7,3 +7,7 @@
 [submodule "CapstoneProjects/personal-site"]
 	path = CapstoneProjects/personal-site
 	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalSite.git
+[submodule "section_27/using_gitclone/XO-Game-JavaScript"]
+    path = section_27/using_gitclone/XO-Game-JavaScript
+    url = https://github.com/ammar-alsuhaimi/XO-Game-JavaScript.git
+
