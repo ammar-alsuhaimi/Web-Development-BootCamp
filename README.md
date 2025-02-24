@@ -361,8 +361,12 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 16
-- [Section 16 - HTML](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_16/index.html)
 
+1. **The Document Object Model (DOM)**:
+
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_16/index.html)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_16)
+- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Introduction-to-the-Document-Object-Model-(DOM))
 ---
 
 #### Section 17
