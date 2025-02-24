@@ -317,7 +317,7 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 12
 
-1. **Web Design In Practice**:
+1. **Web Design In Practice Using CSS**:
 
    - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_12/web_Desgin/) Need To Fix
    - B. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Web-Design-In-Practice)
@@ -327,7 +327,7 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 13
 
-1. **Web Design In Practice**:
+1. **Web Design In Practice Using Figma**:
    
    - A. [**Deployed Website**](https://designammar.my.canva.site/retail-website-in-black-white-simple-style)
    - B. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/instruCtion)
