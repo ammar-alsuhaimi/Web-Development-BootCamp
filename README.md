@@ -412,7 +412,12 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 19
-- [jQuery](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_19/Jquery/)
+
+1. **jQuery Project**
+
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_19/Jquery/)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_19/Jquery)
+- [**Note**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-is-Jquery)
 
 ---
 
