@@ -337,13 +337,23 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 14
-- [Section 14 - JavaScript](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_14/index.js)
 
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_14/index.js)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/blob/main/section_14/index.js)
+- [**Note First Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Javascript-Variables-Exercise-Solution)
+- [**Note Second Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Life-in-Weeks-Solution)
+- [**Note Third Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Challenge-BMI-Calculator-Solution)
 ---
 
 #### Section 15
-- [Section 15 - JavaScript](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_15/index.js)
 
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_15/index.js)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/blob/main/section_15/index.js)
+- [**Note First Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Coding-Exercise-4-BMI-Calculator-Advanced-(IF-ELSE))
+- [**Note Second Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Leap-Year-Solution)
+- [**Note Third Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Who's-Buying-Lunch-Solution)
+- [**Note Fourth Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Solution-to-the-99-Bottles-Challenge)
+- [**Note Fifth Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Coding-Exercise-7-The-Fibonacci-Exercise)
 ---
 
 #### Section 16
