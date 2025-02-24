@@ -1,83 +1,198 @@
 # Web Development Bootcamp Guide
 
-Welcome to the Web Development Bootcamp!
+Welcome to the Web Development Bootcamp! This guide is designed to help you navigate the bootcamp and make the most of the resources available.
+
+---
 
 ## Getting Started
 
-### Check the Wiki First:
-- Begin by visiting the Wiki section of this repository.
-- The Wiki contains detailed notes and explanations from Section 01 to Section 27.
-- Each section is filled with valuable information to help you understand the concepts.
+- **Check the Wiki First:**  
+  Visit the Wiki section of this repository for detailed notes and explanations from **Section 01 to Section 27**. Each section provides valuable insights to help you understand the concepts.
 
-### Accessing Projects:
-- In the Wiki, you will find links to each section from 01 to 27.
-- Click on any section number (e.g., Section 01) to view the corresponding project code.
-- This will redirect you to the project folder that contains the code for that particular section.
+- **Accessing Projects:**  
+  In the Wiki, you will find links to each section (e.g., Section 01) that redirect you to the corresponding project folder containing the project code.
 
-### Viewing Notes:
-- If you click on any other link within the Wiki (other than the section numbers), you will be directed to the detailed notes for that section.
-- These notes provide comprehensive insights and explanations of the topics covered.
+- **Viewing Notes:**  
+  Clicking on any non-section-number link in the Wiki will direct you to the detailed notes for that section.
 
-### Capstone Projects:
-- There is a dedicated folder called Capstone Projects in the main repository.
-- This folder contains all the capstone projects that you can explore and work on to apply the knowledge you’ve gained.
+- **Capstone Projects:**  
+  A dedicated folder named **Capstone Projects** in the main repository contains all the capstone projects to help you apply your knowledge.
 
-## Summary
-- **Wiki:** Your go-to place for detailed notes and explanations.
-- **Section Numbers:** Click to access project code.
-- **Other Links:** Click to view the notes.
-- **Capstone Projects:** Find all capstone projects in the main repository folder.
-
-We hope this guide helps you navigate through the bootcamp effectively. 
-
-Happy learning!
+> **Summary:**  
+> - **Wiki:** Your go-to place for detailed notes and explanations.  
+> - **Section Numbers:** Click to access project code.  
+> - **Other Links:** Click to view the notes.  
+> - **Capstone Projects:** Find all capstone projects in the main repository folder.
 
 ---
 
-### Dear Mr. Von Schappler,
+## Appreciation Note
 
-I hope you are doing well.
-
-I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey to completing this project.
-
-Your unique way of thinking and exceptional teaching methods have truly made a significant impact on my learning experience. 
-
-Your passion for the subject and your commitment to helping your students succeed are truly inspiring.
-
-You have a remarkable ability to explain complex concepts in a way that is easy to understand, and your patience and encouragement have been invaluable to me. 
-
-With your help, I was able to tackle challenges that I once thought were insurmountable, and I have grown both personally and academically because of your mentorship.
-
-This project would not have been possible without your insights, feedback, and continuous support. 
-
-Your belief in my abilities gave me the confidence to push myself further and achieve my goals.
-
-I am incredibly grateful for the time and effort you have invested in my success.
-
-I would also like to highlight your amazing GitHub channels that provide organized knowledge and helpful resources:
-
-- [vonschappler](https://github.com/vonschappler/)
-- [code-with-von](https://github.com/code-with-von)
-
-
-Thank you once again for being such a remarkable mentor and teacher. 
-
-Your guidance has made a lasting impact on my life, and I will always cherish the knowledge and wisdom you have shared with me.
-
-With heartfelt thanks,
-
-Ammar Al-Suhaimi
+> **Dear Mr. Von Schappler,**  
+> I hope you are doing well. I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey to completing this project.  
+>  
+> Your unique way of thinking and exceptional teaching methods have truly made a significant impact on my learning experience. Your passion for the subject and your commitment to helping your students succeed are truly inspiring.  
+>  
+> You have a remarkable ability to explain complex concepts in a way that is easy to understand, and your patience and encouragement have been invaluable to me. With your help, I was able to tackle challenges that I once thought were insurmountable, and I have grown both personally and academically because of your mentorship.  
+>  
+> This project would not have been possible without your insights, feedback, and continuous support. Your belief in my abilities gave me the confidence to push myself further and achieve my goals.  
+>  
+> I am incredibly grateful for the time and effort you have invested in my success. I would also like to highlight your amazing GitHub channels that provide organized knowledge and helpful resources: **vonschappler** and **code-with-von**.  
+>  
+> Thank you once again for being such a remarkable mentor and teacher. Your guidance has made a lasting impact on my life, and I will always cherish the knowledge and wisdom you have shared with me.  
+>  
+> **With heartfelt thanks,**  
+> **Ammar Al-Suhaimi**
 
 ---
 
-### Final Note
+## Final Note
 
-The Web Development Bootcamp will be continuously updated and modified in the future. 
+The Web Development Bootcamp will be continuously updated and modified in the future. I hope you enjoy everything I upload as part of my journey. This course will take time to finish and also time to organize and upload. Please be patient, and I will do it as soon as possible.
 
-I hope you enjoy everything I upload as part of my journey. 
+---
 
-This course will take time to finish and also take time to organize and upload. 
+## Projects
 
-Please be patient, and I will do it as soon as possible.
+### All-FrontEnd-Projects
+
+#### Section 01
+- [Hello World](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_01/hello_world/)
+
+#### Section 02
+- [Heading](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/heading/)
+- [Movie Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
+- [Paragraph](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/paragraph/)
+- [Void](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
+
+#### Section 03
+- [Anchor](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/anchor/)
+- [Birthday Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/birthday_project/)
+- [Image](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/image_/)
+- [List](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/list/)
+- [Nesting and Indentation](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/nesting%20and%20indentation/)
+
+#### Section 04
+- [File Paths - Folder0](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/file_paths/Folder0)
+- [Web Pages](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/web_pages/)
+
+#### Section 05
+- [Adding CSS](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/adding_css/)
+- [Color Vocab Project (Solution)](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/color_vocab_project/solution/)
+
+#### Section 06
+- [CSS Box Model](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_box_model/)
+- [CSS Color](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_color/)
+- [Font Properties](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/font_properties/)
+- [Motivation Meme Project (Solution)](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/motivation_meme_project/solution/)
+
+#### Section 07
+- [CSS Cascade](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_cascade/)
+- [Combining Selectors](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/combining_selectors/)
+- [CSS Flag Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_flag_project/)
+- [CSS Positioning](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_positioning/)
+
+#### Section 08
+- [CSS Display](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_display/)
+- [CSS Float](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_float/)
+- [Media Query](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/media_query/)
+- [Responsiveness](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/responsiveness/)
+- [Web Design Agency Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/web_design_agency_project/)
+
+#### Section 09
+- [Display Flex](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/display_flex/)
+- [Flex Direction](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/flex_direction/)
+- [Pricing Table Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/pricing_table_project/)
+
+#### Section 10
+- [Display Grid](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/display_grid/)
+- [Grid Placement - Solution 1](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution1.html)
+- [Grid Placement - Solution 2](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution2.html)
+- [Grid Placement - Solution 3](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution3.html)
+- [Grid Sizing](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_sizing/)
+- [Mondrian Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/mondrian_project/)
+
+#### Section 11
+- [Bootstrap Components](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_components/)
+- [Bootstrap Intro](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_intro/)
+- [Tindog Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/tindog_project/)
+
+#### Section 12
+- [Retail Website in Black & White (Canva)](https://designammar.my.canva.site/retail-website-in-black-white-simple-style)
+
+#### Section 13
+- *No links provided*
+
+#### Section 14
+- [Section 14 - JavaScript](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_14/index.js)
+
+#### Section 15
+- [Section 15 - JavaScript](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_15/index.js)
+
+#### Section 16
+- [Section 16 - HTML](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_16/index.html)
+
+#### Section 17
+- [Dicee Challenge](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_17/dicee_challenge/)
+
+#### Section 18
+- [Drum Kit](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_18/drum_kit/)
+
+#### Section 19
+- [jQuery](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_19/Jquery/)
+
+#### Section 20
+- [Simon Game Challenge](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_20/simon_game_challenge/)
+
+#### Capstone Projects
+- [WebBootcamp-CV](https://ammar-alsuhaimi.github.io/WebBootcamp-CV/)
+- [WebBootcamp-PersonalPortifolio](https://ammar-alsuhaimi.github.io/WebBootcamp-PersonalPortifolio/)
+- [WebBootcamp-PersonalSite](https://ammar-alsuhaimi.github.io/WebBootcamp-PersonalSite/)
+
+---
+
+### All-Backend-Projects
+
+#### Section 23
+1. **Native Module Project**  
+   - [Type your message Project](https://web-development-boot-camp-h2ed.vercel.app/)
+2. **NPM Project - Superheroes Project**  
+   - [Superheroes Project](https://web-development-boot-camp-lilac.vercel.app/)
+3. **QR Project**  
+   - [QR Project](https://web-development-boot-camp-eqo2.vercel.app/)
+4. **Using Node**  
+   - [Hello from Node!](https://web-development-boot-camp-jy2f.vercel.app/)
+
+#### Section 24
+1. **Express Server**  
+   - [Hello from express server](https://express-server-drab.vercel.app/)
+2. **HTTP Request**  
+   - [HTTP Request Main](https://http-request-zeta.vercel.app/)  
+   - [Contact](https://http-request-zeta.vercel.app/contact)  
+   - [About](https://http-request-zeta.vercel.app/about)
+3. **Middleware**  
+   - [Middleware Project](https://middleware-mp8s.onrender.com/)
+4. **Postman**  
+   - [Postman Project](https://postman-ashen.vercel.app/)
+5. **Secrets Project**  
+   - [Secrets Project](https://secrets-project-two.vercel.app/)
+
+#### Section 25
+1. **Band Generator**  
+   - [Band_generotr](https://bandgenerotr.onrender.com/)
+2. **EJS Weekend or Work**  
+   - [EJS Weekend-or-Work](https://ejs-weekend-or-work.onrender.com/)
+3. **EJS Partials**  
+   - [EJS Partials](https://website-9prs.onrender.com/#)
+4. **EJS Tags**  
+   - [EJS Tags](https://ejs-tags.onrender.com/)
+5. **Passing Data**  
+   - [Passing Data](https://passingdata.onrender.com/)
+
+#### Section 27
+1. **Gitignore**  
+   - [Gitignore](https://gitignore-n8ii.onrender.com/)
+2. **Git Clone Game**  
+   - [git clone alto-io.github.io/game3.js](https://alto-io.github.io/game3.js)
 
 ---
