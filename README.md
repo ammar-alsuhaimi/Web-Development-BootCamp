@@ -543,35 +543,30 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 25
 1. **Band Generator**  
-   - [Band_generotr](https://bandgenerotr.onrender.com/)
-   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
-   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
-   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+   - [**Deployed Website**](https://bandgenerotr.onrender.com/)
+   - [code]()
+   - [Note]()
 
 
 2. **EJS Weekend or Work**  
-   - [EJS Weekend-or-Work](https://ejs-weekend-or-work.onrender.com/)
-   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
-   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
-   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+   - [**Deployed Website**](https://ejs-weekend-or-work.onrender.com/)
+   - [code]()
+   - [Note]()
 
 3. **EJS Partials**  
-   - [EJS Partials](https://website-9prs.onrender.com/#)
-   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [**Deployed Website**](https://website-9prs.onrender.com/#)
    - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
    - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
 
 4. **EJS Tags**  
-   - [EJS Tags](https://ejs-tags.onrender.com/)
-   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
-   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
-   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+   - [**Deployed Website**](https://ejs-tags.onrender.com/)
+   - [code]()
+   - [Note]()
 
 5. **Passing Data**  
-   - [Passing Data](https://passingdata.onrender.com/)
-   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
-   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
-   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+   - [**Deployed Website**](https://passingdata.onrender.com/)
+   - [code]()
+   - [Note]()
 
 
 ---
