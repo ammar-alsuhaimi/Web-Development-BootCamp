@@ -544,37 +544,46 @@ Please be patient, and I will do it as soon as possible.
 #### Section 25
 1. **Band Generator**  
    - [**Deployed Website**](https://bandgenerotr.onrender.com/)
-   - [code]()
-   - [Note]()
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_25/band_generator_project)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Band-Generator-Project)
 
 
 2. **EJS Weekend or Work**  
    - [**Deployed Website**](https://ejs-weekend-or-work.onrender.com/)
-   - [code]()
-   - [Note]()
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_25/ejs)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-is-EJS)
 
 3. **EJS Partials**  
    - [**Deployed Website**](https://website-9prs.onrender.com/#)
-   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
-   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_25/ejs_partials)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/EJS-Partials-And-Layouts)
 
 4. **EJS Tags**  
    - [**Deployed Website**](https://ejs-tags.onrender.com/)
-   - [code]()
-   - [Note]()
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_25/ejs_tags)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/EJS-Tags)
 
 5. **Passing Data**  
    - [**Deployed Website**](https://passingdata.onrender.com/)
-   - [code]()
-   - [Note]()
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_25/passing_data)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Passing-Data-To-EJS-Templates)
 
 
 ---
 
 #### Section 27
+
 1. **Gitignore**  
-   - [Gitignore](https://gitignore-n8ii.onrender.com/)
+
+   - [**Deployed Website**](https://gitignore-n8ii.onrender.com/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_27/using_gitignore)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Gitignore)
+
 2. **Git Clone Game**  
-   - [git clone alto-io.github.io/game3.js](https://alto-io.github.io/game3.js)
+
+   - [**Deployed Website**](https://alto-io.github.io/game3.js)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_27/using_gitclone)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Cloning)
+
 
 ---
