@@ -220,11 +220,31 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 08
-- [CSS Display](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_display/)
-- [CSS Float](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_float/)
-- [Media Query](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/media_query/)
-- [Responsiveness](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/responsiveness/)
-- [Web Design Agency Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/web_design_agency_project/)
+
+1. **CSS Display**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_display/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_08/css_display)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/CSS-Display)
+
+2. **CSS Float**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_float/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_08/css_float)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/CSS-Float)
+
+3. **Media Query**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/media_query/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_08/media_query)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Media-Queries)
+
+4. **Responsiveness**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/responsiveness/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_08/responsiveness)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/How-To-Create-Responsive-Websites)
+
+5. **Web Design Agency Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/web_design_agency_project/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_08/web_design_agency_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-Web-Design-Agency-Website)
 
 ---
 
