@@ -80,6 +80,7 @@ Please be patient, and I will do it as soon as possible.
 ### All-FrontEnd-Projects
 
 #### Section 01
+
 - [Hello World](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_01/hello_world/)
 
 
@@ -141,12 +142,12 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 04
 
-4. **File Paths**:
+1. **File Paths**:
    - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/file_paths/Folder0)
    - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_04/file_paths)
    - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Computer-File-Paths)
 
-5. **Web Pages**:
+2. **Web Pages**:
    - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/web_pages/)
    - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_04/web_pages)
    - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-Are-Webpages)
@@ -155,12 +156,12 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 05
 
-5. **Adding CSS**:
+1. **Adding CSS**:
    - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/adding_css/)
    - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_05/adding_css)
    - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/How-to-Add-CSS)
 
-5. **Color Vocab Project (Solution)**:
+2. **Color Vocab Project (Solution)**:
    - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/color_vocab_project/solution/)
    - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_05/color_vocab_project)
    - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-Colour-Vocab-Website)
@@ -168,10 +169,26 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 06
-- [CSS Box Model](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_box_model/)
-- [CSS Color](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_color/)
-- [Font Properties](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/font_properties/)
-- [Motivation Meme Project (Solution)](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/motivation_meme_project/solution/)
+
+1. **CSS Box Model**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_box_model/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_06/css_box_model)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/The-CSS-Box-Model-Margin-Padding-and-Border)
+
+2. **CSS Color**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_color/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_06/css_color)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/CSS-ColoursS)
+
+3. **Font Properties**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/font_properties/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_06/font_properties)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Font-Properties)
+
+4. **Motivation Meme Project (Solution)**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/motivation_meme_project/solution/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_06/motivation_meme_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-Motivational-Poster-Website)
 
 ---
 
