@@ -28,18 +28,31 @@ Welcome to the Web Development Bootcamp! This guide is designed to help you navi
 
 ## Appreciation Note
 
-> **Dear Mr. Von Schappler,**  
-> I hope you are doing well. I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey to completing this project.  
+> **Dear Mr. Von Schappler,**
+> 
+> I hope you are doing well.
+>
+> I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey to completing this project.  
 >  
-> Your unique way of thinking and exceptional teaching methods have truly made a significant impact on my learning experience. Your passion for the subject and your commitment to helping your students succeed are truly inspiring.  
+> Your unique way of thinking and exceptional teaching methods have truly made a significant impact on my learning experience.
+>
+> Your passion for the subject and your commitment to helping your students succeed are truly inspiring.  
 >  
-> You have a remarkable ability to explain complex concepts in a way that is easy to understand, and your patience and encouragement have been invaluable to me. With your help, I was able to tackle challenges that I once thought were insurmountable, and I have grown both personally and academically because of your mentorship.  
+> You have a remarkable ability to explain complex concepts in a way that is easy to understand, and your patience and encouragement have been invaluable to me.
+>
+> With your help, I was able to tackle challenges that I once thought were insurmountable, and I have grown both personally and academically because of your mentorship.  
 >  
-> This project would not have been possible without your insights, feedback, and continuous support. Your belief in my abilities gave me the confidence to push myself further and achieve my goals.  
+> This project would not have been possible without your insights, feedback, and continuous support.
+>
+> Your belief in my abilities gave me the confidence to push myself further and achieve my goals.  
 >  
-> I am incredibly grateful for the time and effort you have invested in my success. I would also like to highlight your amazing GitHub channels that provide organized knowledge and helpful resources: **vonschappler** and **code-with-von**.  
+> I am incredibly grateful for the time and effort you have invested in my success.
+>
+> I would also like to highlight your amazing GitHub channels that provide organized knowledge and helpful resources: **vonschappler** and **code-with-von**.  
 >  
-> Thank you once again for being such a remarkable mentor and teacher. Your guidance has made a lasting impact on my life, and I will always cherish the knowledge and wisdom you have shared with me.  
+> Thank you once again for being such a remarkable mentor and teacher.
+>
+> Your guidance has made a lasting impact on my life, and I will always cherish the knowledge and wisdom you have shared with me.  
 >  
 > **With heartfelt thanks,**  
 > **Ammar Al-Suhaimi**
@@ -48,7 +61,11 @@ Welcome to the Web Development Bootcamp! This guide is designed to help you navi
 
 ## Final Note
 
-The Web Development Bootcamp will be continuously updated and modified in the future. I hope you enjoy everything I upload as part of my journey. This course will take time to finish and also time to organize and upload. Please be patient, and I will do it as soon as possible.
+The Web Development Bootcamp will be continuously updated and modified in the future. 
+
+I hope you enjoy everything I upload as part of my journey. 
+
+This course will take time to finish and also time to organize and upload. Please be patient, and I will do it as soon as possible.
 
 ---
 
