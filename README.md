@@ -9,7 +9,9 @@ This guide is designed to help you navigate the bootcamp and make the most of th
 ## Getting Started
 
 - **Check the Wiki First:**  
-  Visit the Wiki section of this repository for detailed notes and explanations from **Section 01 to Section 27**. Each section provides valuable insights to help you understand the concepts.
+  Visit the Wiki section of this repository for detailed notes and explanations from **Section 01 to Section 27**.
+
+  Each section provides valuable insights to help you understand the concepts.
 
 - **Accessing Projects:**  
   In the Wiki, you will find links to each section (e.g., Section 01) that redirect you to the corresponding project folder containing the project code.
