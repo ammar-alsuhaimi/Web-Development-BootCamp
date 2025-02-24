@@ -54,8 +54,9 @@ I am incredibly grateful for the time and effort you have invested in my success
 
 I would also like to highlight your amazing GitHub channels that provide organized knowledge and helpful resources:
 
-- **vonschappler GitHub Channel**
-- **Code with Von GitHub Channel**
+- **vonschappler GitHub Channel** [https://github.com/vonschappler](https://github.com/vonschappler/)
+- **Code with Von GitHub Channel** [https://github.com/code-with-von](https://github.com/code-with-von)
+
 
 Thank you once again for being such a remarkable mentor and teacher. 
 
