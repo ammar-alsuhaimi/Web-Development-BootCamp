@@ -297,9 +297,21 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 11
-- [Bootstrap Components](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_components/)
-- [Bootstrap Intro](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_intro/)
-- [Tindog Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/tindog_project/)
+
+1. **Bootstrap Introduction**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_intro/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_11/bootstrap_intro)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-is-Bootstrap)
+
+2. **Bootstrap Components**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_components/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_11/bootstrap_components)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Bootstrap-Components)
+   
+3. **Tindog Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/tindog_project/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_11/tindog_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-TingDog-Website)
 
 ---
 
