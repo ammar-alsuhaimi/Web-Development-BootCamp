@@ -371,7 +371,7 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 17
 
-1. **Dicee Challenge Project**
+1. **Dicee Game Project**
 
 - [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_17/dicee_challenge/)
 - [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_17/dicee_challenge)
@@ -390,7 +390,7 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 18
 
-1. **Drum Kit Challenge Project**
+1. **Drum Kit Project**
 
 - [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_18/drum_kit/)
 - [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_18/drum_kit)
@@ -422,7 +422,35 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 20
-- [Simon Game Challenge](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_20/simon_game_challenge/)
+
+1. **Simon Game Project**
+
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_20/simon_game_challenge/)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_20/simon_game_challenge)
+- [**Notes 1**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-You'll-Make-The-Simon-Game)
+- [**Notes 2**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Play-the-Game)
+- [**Notes 3**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-0-Download-the-Starting-Files)
+- [**Notes 4**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-1-Add-Javascript-and-Jquery)
+- [**Notes 5**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-1-Answer)
+- [**Notes 6**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-2-Create-A-New-Pattern)
+- [**Notes 7**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-2-Answer)
+- [**Notes 8**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-3-Show-the-Sequence-to-the-User-with-Animations-and-Sounds)
+- [**Notes 9**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-3-Answer)
+- [**Notes 10**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-4-Check-Which-Button-is-Pressed)
+- [**Notes 11**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-4-Answer)
+- [**Notes 12**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-5-Add-Sounds-to-Button-Clicks)
+- [**Notes 13**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-5-Answer)
+- [**Notes 14**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-6-Add-Animations-to-User-Clicks)
+- [**Notes 15**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-6-Answer)
+- [**Notes 16**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-7-Start-the-Game)
+- [**Notes 17**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-7-Answer)
+- [**Notes 18**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-8-Check-the-User's-Answer-Against-the-Game-Sequence)
+- [**Notes 19**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-8-Answer)
+- [**Notes 20**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-9-Game-Over)
+- [**Notes 21**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-9-Answer)
+- [**Notes 22**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-10-Restart-the-Game)
+- [**Notes 23**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Step-10-Answer)
+
 
 ---
 
