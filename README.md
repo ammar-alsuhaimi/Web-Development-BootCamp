@@ -249,9 +249,21 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 09
-- [Display Flex](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/display_flex/)
-- [Flex Direction](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/flex_direction/)
-- [Pricing Table Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/pricing_table_project/)
+
+1. **Display Flex**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/display_flex/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_09/display_flex)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Display-Flex)
+
+2. **Flex Direction**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/flex_direction)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_09/flex_direction)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Flex-Direction)
+
+3. **Pricing Table Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/pricing_table_project/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_09/pricing_table_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-Pricing-Table)
 
 ---
 
