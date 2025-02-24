@@ -509,31 +509,70 @@ Please be patient, and I will do it as soon as possible.
 #### Section 24
 
 1. **Express Server - Hello from express server**  
-   - [Hello from express server](https://express-server-drab.vercel.app/)
+   - [**Deployed Website**](https://express-server-drab.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_24/express_server)
+   - [Note 1](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-is-Express)
+   - [Note 2](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Creating-Our-First-Server-with-Express)
+
 2. **HTTP Request**  
-   - [HTTP Request Main](https://http-request-zeta.vercel.app/)  
-   - [Contact](https://http-request-zeta.vercel.app/contact)  
-   - [About](https://http-request-zeta.vercel.app/about)
+   - [**Deployed Website Main Page 1**](https://http-request-zeta.vercel.app/)
+   - [**Deployed Website Contact Page 2**](https://http-request-zeta.vercel.app/contact)
+   - [**Deployed Website About Page 3**](https://http-request-zeta.vercel.app/about)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_24/http_requests)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/HTTP-Requests)
+
 3. **Middleware**  
-   - [Middleware Project](https://middleware-mp8s.onrender.com/)
+   - [**Deployed Website**](https://middleware-mp8s.onrender.com/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_24/middleware_)
+   - [Note 1](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Introduction-to-Middlewares)
+   - [Note 2](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Custom-Middlewares)
+
+
 4. **Postman**  
-   - [Postman Project](https://postman-ashen.vercel.app/)
+   - [**Deployed Website**](https://postman-ashen.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_24/postman)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Postman)
+
 5. **Secrets Project**  
-   - [Secrets Project](https://secrets-project-two.vercel.app/)
+   - [**Deployed Website**](https://secrets-project-two.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_24/secrets_project)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Secrets-Access-Project)
+
 
 ---
 
 #### Section 25
 1. **Band Generator**  
    - [Band_generotr](https://bandgenerotr.onrender.com/)
+   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+
+
 2. **EJS Weekend or Work**  
    - [EJS Weekend-or-Work](https://ejs-weekend-or-work.onrender.com/)
+   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+
 3. **EJS Partials**  
    - [EJS Partials](https://website-9prs.onrender.com/#)
+   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+
 4. **EJS Tags**  
    - [EJS Tags](https://ejs-tags.onrender.com/)
+   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+
 5. **Passing Data**  
    - [Passing Data](https://passingdata.onrender.com/)
+   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
+
 
 ---
 
