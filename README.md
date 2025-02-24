@@ -111,23 +111,59 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 03
-- [Anchor](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/anchor/)
-- [Birthday Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/birthday_project/)
-- [Image](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/image_/)
-- [List](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/list/)
-- [Nesting and Indentation](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/nesting%20and%20indentation/)
+
+1. **The List Element**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/list/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_03/list)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/The-List-Element)
+
+2. **Nesting and Identation**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/nesting%20and%20indentation/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_03/nesting%20and%20indentation)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Nesting-And-Indentation)
+
+3. **Anchor Elements**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/anchor/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_03/anchor)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Anchor-Elements)
+
+4. **Image Elements**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/image_/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_03/image_)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Image-Elements)
+
+5. **Birthday Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/birthday_project/)
+   - B. [**Source Code**]()
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_03/birthday_project)
 
 ---
 
 #### Section 04
-- [File Paths - Folder0](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/file_paths/Folder0)
-- [Web Pages](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/web_pages/)
+
+4. **File Paths**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/file_paths/Folder0)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_04/file_paths)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Computer-File-Paths)
+
+5. **Web Pages**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/web_pages/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_04/web_pages)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-Are-Webpages)
 
 ---
 
 #### Section 05
-- [Adding CSS](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/adding_css/)
-- [Color Vocab Project (Solution)](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/color_vocab_project/solution/)
+
+5. **Adding CSS**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/adding_css/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_05/adding_css)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/How-to-Add-CSS)
+
+5. **Color Vocab Project (Solution)**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/color_vocab_project/solution/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_05/color_vocab_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-Colour-Vocab-Website)
 
 ---
 
