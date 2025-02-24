@@ -9,15 +9,18 @@ This guide is designed to help you navigate the bootcamp and make the most of th
 ## Getting Started
 
 - **Check the Wiki First:**  
-  Visit the Wiki section of this repository for detailed notes and explanations from **Section 01 to Section 27**.
+  Visit the [Web Development BootCamp Wiki](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki)
+ section of this repository for detailed notes and explanations from **Section 01 to Section 27**.
 
   Each section provides valuable insights to help you understand the concepts.
 
 - **Accessing Projects:**  
-  In the Wiki, you will find links to each section (e.g., Section 01) that redirect you to the corresponding project folder containing the project code.
+  In the [Web Development BootCamp Wiki](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki)
+, you will find links to each section (e.g., Section 01) that redirect you to the corresponding project folder containing the project code.
 
 - **Viewing Notes:**  
-  Clicking on any non-section-number link in the Wiki will direct you to the detailed notes for that section.
+  Clicking on any non-section-number link in the [Web Development BootCamp Wiki](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki)
+ will direct you to the detailed notes for that section.
 
 - **Capstone Projects:**  
   A dedicated folder named **Capstone Projects** in the main repository contains all the capstone projects to help you apply your knowledge.
