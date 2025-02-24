@@ -96,11 +96,15 @@ Please be patient, and I will do it as soon as possible.
   - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/paragraph)
   - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Paragraph-Elements)
 
----
+  - 3- **Void Elements** :-
+  - A- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
+  - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/void)
+  - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Void-Elements)
 
-- [Movie Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
-- [Paragraph](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/paragraph/)
-- [Void](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
+  - 4- **Movie Project** :-
+  - A- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
+  - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/movie_project)
+  - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/movie-project)
 
 ---
 
