@@ -338,6 +338,8 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 14
 
+1. **Introduction to Javascript**:
+
 - [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_14/index.js)
 - [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/blob/main/section_14/index.js)
 - [**Note First Program**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Javascript-Variables-Exercise-Solution)
@@ -346,6 +348,8 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 15
+
+1. **Intermediate Javascript**:
 
 - [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_15/index.js)
 - [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/blob/main/section_15/index.js)
