@@ -193,10 +193,26 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 07
-- [CSS Cascade](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_cascade/)
-- [Combining Selectors](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/combining_selectors/)
-- [CSS Flag Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_flag_project/)
-- [CSS Positioning](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_positioning/)
+
+1. **CSS Cascade**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_cascade/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_07/css_cascade)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/The-Cascade-Specificity-And-Inheritance)
+
+2. **Combining Selectors**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/combining_selectors/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_07/combining_selectors)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Combining-CSS-Selectors)
+
+3. **CSS Flag Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_flag_project/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_07/css_flag_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-CSS-Flag)
+
+4. **CSS Positioning**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_positioning/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_07/css_positioning)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/CSS-Positioning)
 
 ---
 
