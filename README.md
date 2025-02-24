@@ -86,37 +86,27 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 02
-- 1- **Heading Elements** :-
 
-  - A- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/heading/)
+1. **Heading Elements**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/heading/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/heading)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Heading-Elements)
 
-  - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/heading)
-  
-  - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Heading-Elements)
+2. **Paragraph Elements**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/paragraph/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/paragraph)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Paragraph-Elements)
 
-- 2- **Paragraph Elements** :-
+3. **Void Elements**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/void)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Self-closing-tags)
 
-  - A- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/paragraph/)
+4. **Movie Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/movie_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/movie-project)
 
-  - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/paragraph)
-
-  - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Paragraph-Elements)
-
-  - 3- **Void Elements** :-
-
-  - A- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
-
-  - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/void)
-
-  - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Self-closing-tags)
-
-  - 4- **Movie Project** :-
-
-  - A- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
-
-  - B- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/movie_project)
-
-  - C- [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/movie-project)
 
 ---
 
