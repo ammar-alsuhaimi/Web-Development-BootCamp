@@ -314,8 +314,7 @@ Please be patient, and I will do it as soon as possible.
    - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-TingDog-Website)
 
 ---
-- [Retail Website in Black & White (Canva)](https://designammar.my.canva.site/retail-website-in-black-white-simple-style)
-- 
+
 #### Section 12
 
 1. **Web Design In Practice**:
@@ -327,6 +326,8 @@ Please be patient, and I will do it as soon as possible.
 
 #### Section 13
 - *No links provided*
+- [Retail Website in Black & White (Canva)](https://designammar.my.canva.site/retail-website-in-black-white-simple-style)
+
 
 ---
 
