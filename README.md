@@ -370,12 +370,44 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 17
-- [Dicee Challenge](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_17/dicee_challenge/)
+
+1. **Dicee Challenge Project**
+
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_17/dicee_challenge/)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_17/dicee_challenge)
+- [**Notes 1**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Challenge-The-Dicee-Challenge)
+- [**Notes 2**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-0-Download-the-Skeleton-Project)
+- [**Notes 3**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-1-Create-an-External-Javascript-File)
+- [**Notes 4**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-2-Add-Dice-Images)
+- [**Notes 5**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-3-Create-a-Random-Number)
+- [**Notes 6**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-4-Change-the-img-to-a-Random-Dice)
+- [**Notes 7**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-5-Change-both-img-Elements)
+- [**Notes 8**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Dicee-Challenge-Step-6-Change-the-Title-to-Display-a-Winner)
+
+
 
 ---
 
 #### Section 18
-- [Drum Kit](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_18/drum_kit/)
+
+1. **Drum Kit Challenge Project**
+
+- [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_18/drum_kit/)
+- [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_18/drum_kit)
+- [**Notes 1**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/What-We'll-Make-Drum-Kit)
+- [**Notes 2**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Download-the-Starting-Files)
+- [**Notes 3**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Adding-Event-Listeners-to-a-Button)
+- [**Notes 4**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Higher-Order-Functions-and-Passing-Functions-as-Arguments)
+- [**Notes 5**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/How-to-Play-Sounds-on-a-Website)
+- [**Notes 6**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/How-to-Use-Switch-Statements-in-Javascript)
+- [**Notes 7**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/A-Deeper-Understanding-of-Javascript-Objects)
+- [**Notes 8**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Objects-Their-Methods-And-the-Dot-Notation)
+- [**Notes 9**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/A-Quick-Note-About-the-Next-Lesson)
+- [**Notes 10**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Keyboard-Event-Listeners-To-Check-For-Key-Presses)
+- [**Notes 11**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Understanding-Callbacks-And-How-to-Respond-To-Events)
+- [**Notes 12**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Adding-Animation-To-Websites)
+- [**Notes 13**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Download-the-Completed-Website)
+
 
 ---
 
