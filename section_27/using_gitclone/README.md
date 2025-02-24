@@ -65,7 +65,8 @@ To access the original project, click on the folder link below:
 [Original Project Folder](https://github.com/alto-io/game3.js)
 
 To try the game, click on the link below:
-[Try the Game](https://alto-io.github.io/game3.js)
+[Try the Game]
+(https://alto-io.github.io/game3.js)
 
 This guide is intended for practice and to make it easy for people to see the project. 
 
