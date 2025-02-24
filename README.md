@@ -65,6 +65,7 @@ Thank you once again for being such a remarkable mentor and teacher.
 Your guidance has made a lasting impact on my life, and I will always cherish the knowledge and wisdom you have shared with me.
 
 With heartfelt thanks,
+
 Ammar Al-Suhaimi
 
 ---
