@@ -268,12 +268,29 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 10
-- [Display Grid](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/display_grid/)
-- [Grid Placement - Solution 1](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution1.html)
-- [Grid Placement - Solution 2](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution2.html)
-- [Grid Placement - Solution 3](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution3.html)
-- [Grid Sizing](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_sizing/)
-- [Mondrian Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/mondrian_project/)
+
+1. **Display Grid**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/display_grid/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_10/display_grid)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Display-Grid)
+
+2. **Grid Placement - Solutions 1 - 2 - 3**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution1.html)
+   - A1. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution2.html)
+   - A2. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution3.html)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_10/grid_placement)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Grid-Placement)
+
+3. **Grid Sizing**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_sizing/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_10/grid_sizing)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Grid-Sizing)
+
+4. **Mondrian Project**:
+   - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/mondrian_project/)
+   - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_10/mondrian_project)
+   - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/%5BProject%5D-Mondrian-Painting)
+
 
 ---
 
