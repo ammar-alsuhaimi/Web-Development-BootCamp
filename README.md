@@ -82,10 +82,16 @@ Please be patient, and I will do it as soon as possible.
 #### Section 01
 - [Hello World](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_01/hello_world/)
 
+
 ---
 
 #### Section 02
-- [Heading](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/heading/)
+- **Deployed Website**: - [Heading](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/heading/)
+- **Source Code**: [Code Link](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_02/heading)
+- **Notes**: [Notes Link](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Heading-Elements)
+
+---
+
 - [Movie Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
 - [Paragraph](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/paragraph/)
 - [Void](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
