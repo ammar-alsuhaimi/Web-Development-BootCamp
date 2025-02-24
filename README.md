@@ -76,11 +76,15 @@ This course will take time to finish and also time to organize and upload. Pleas
 #### Section 01
 - [Hello World](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_01/hello_world/)
 
+---
+
 #### Section 02
 - [Heading](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/heading/)
 - [Movie Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/movie_project/)
 - [Paragraph](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/paragraph/)
 - [Void](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_02/void/)
+
+---
 
 #### Section 03
 - [Anchor](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/anchor/)
@@ -89,13 +93,19 @@ This course will take time to finish and also time to organize and upload. Pleas
 - [List](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/list/)
 - [Nesting and Indentation](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_03/nesting%20and%20indentation/)
 
+---
+
 #### Section 04
 - [File Paths - Folder0](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/file_paths/Folder0)
 - [Web Pages](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_04/web_pages/)
 
+---
+
 #### Section 05
 - [Adding CSS](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/adding_css/)
 - [Color Vocab Project (Solution)](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_05/color_vocab_project/solution/)
+
+---
 
 #### Section 06
 - [CSS Box Model](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/css_box_model/)
@@ -103,11 +113,15 @@ This course will take time to finish and also time to organize and upload. Pleas
 - [Font Properties](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/font_properties/)
 - [Motivation Meme Project (Solution)](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_06/motivation_meme_project/solution/)
 
+---
+
 #### Section 07
 - [CSS Cascade](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_cascade/)
 - [Combining Selectors](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/combining_selectors/)
 - [CSS Flag Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_flag_project/)
 - [CSS Positioning](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_07/css_positioning/)
+
+---
 
 #### Section 08
 - [CSS Display](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/css_display/)
@@ -116,10 +130,14 @@ This course will take time to finish and also time to organize and upload. Pleas
 - [Responsiveness](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/responsiveness/)
 - [Web Design Agency Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_08/web_design_agency_project/)
 
+---
+
 #### Section 09
 - [Display Flex](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/display_flex/)
 - [Flex Direction](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/flex_direction/)
 - [Pricing Table Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_09/pricing_table_project/)
+
+---
 
 #### Section 10
 - [Display Grid](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/display_grid/)
@@ -129,37 +147,59 @@ This course will take time to finish and also time to organize and upload. Pleas
 - [Grid Sizing](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_sizing/)
 - [Mondrian Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/mondrian_project/)
 
+---
+
 #### Section 11
 - [Bootstrap Components](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_components/)
 - [Bootstrap Intro](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/bootstrap_intro/)
 - [Tindog Project](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_11/tindog_project/)
 
+---
+
 #### Section 12
 - [Retail Website in Black & White (Canva)](https://designammar.my.canva.site/retail-website-in-black-white-simple-style)
+
+---
 
 #### Section 13
 - *No links provided*
 
+---
+
 #### Section 14
 - [Section 14 - JavaScript](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_14/index.js)
+
+---
 
 #### Section 15
 - [Section 15 - JavaScript](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_15/index.js)
 
+---
+
 #### Section 16
 - [Section 16 - HTML](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_16/index.html)
+
+---
 
 #### Section 17
 - [Dicee Challenge](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_17/dicee_challenge/)
 
+---
+
 #### Section 18
 - [Drum Kit](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_18/drum_kit/)
+
+---
 
 #### Section 19
 - [jQuery](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_19/Jquery/)
 
+---
+
 #### Section 20
 - [Simon Game Challenge](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_20/simon_game_challenge/)
+
+---
 
 #### Capstone Projects
 - [WebBootcamp-CV](https://ammar-alsuhaimi.github.io/WebBootcamp-CV/)
@@ -169,6 +209,7 @@ This course will take time to finish and also time to organize and upload. Pleas
 ---
 
 ### All-Backend-Projects
+---
 
 #### Section 23
 1. **Native Module Project**  
@@ -179,6 +220,8 @@ This course will take time to finish and also time to organize and upload. Pleas
    - [QR Project](https://web-development-boot-camp-eqo2.vercel.app/)
 4. **Using Node**  
    - [Hello from Node!](https://web-development-boot-camp-jy2f.vercel.app/)
+
+---
 
 #### Section 24
 1. **Express Server**  
@@ -194,6 +237,8 @@ This course will take time to finish and also time to organize and upload. Pleas
 5. **Secrets Project**  
    - [Secrets Project](https://secrets-project-two.vercel.app/)
 
+---
+
 #### Section 25
 1. **Band Generator**  
    - [Band_generotr](https://bandgenerotr.onrender.com/)
@@ -205,6 +250,8 @@ This course will take time to finish and also time to organize and upload. Pleas
    - [EJS Tags](https://ejs-tags.onrender.com/)
 5. **Passing Data**  
    - [Passing Data](https://passingdata.onrender.com/)
+
+---
 
 #### Section 27
 1. **Gitignore**  
