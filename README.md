@@ -1,6 +1,8 @@
 # Web Development Bootcamp Guide
 
-Welcome to the Web Development Bootcamp! This guide is designed to help you navigate the bootcamp and make the most of the resources available.
+Welcome to the Web Development Bootcamp! 
+
+This guide is designed to help you navigate the bootcamp and make the most of the resources available.
 
 ---
 
