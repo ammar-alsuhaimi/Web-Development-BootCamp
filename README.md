@@ -479,19 +479,36 @@ Please be patient, and I will do it as soon as possible.
 ---
 
 #### Section 23
-1. **Native Module Project**  
-   - [Type your message Project](https://web-development-boot-camp-h2ed.vercel.app/)
+
+1. **Native Module Project - Type your message Project**
+
+   - [**Deployed Website**](https://web-development-boot-camp-h2ed.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/native_modules)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/How-To-Use-The-Native-Node-Modules)
+
 2. **NPM Project - Superheroes Project**  
-   - [Superheroes Project](https://web-development-boot-camp-lilac.vercel.app/)
+
+   - [**Deployed Website**](https://web-development-boot-camp-lilac.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/npm)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/NPM-Package-Manager-And-Installing-External-Node-Modules)
+
 3. **QR Project**  
-   - [QR Project](https://web-development-boot-camp-eqo2.vercel.app/)
-4. **Using Node**  
-   - [Hello from Node!](https://web-development-boot-camp-jy2f.vercel.app/)
+
+   - [**Deployed Website**](https://web-development-boot-camp-eqo2.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/qr_code_project)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Project-QR-Code-Generator)
+
+4. **Using Node - Hello from Node!**
+
+   - [**Deployed Website**](https://web-development-boot-camp-jy2f.vercel.app/)
+   - [code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_23/using_node)
+   - [Note](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Using-Nodejs)
 
 ---
 
 #### Section 24
-1. **Express Server**  
+
+1. **Express Server - Hello from express server**  
    - [Hello from express server](https://express-server-drab.vercel.app/)
 2. **HTTP Request**  
    - [HTTP Request Main](https://http-request-zeta.vercel.app/)  
