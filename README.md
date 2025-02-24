@@ -28,7 +28,9 @@ Welcome to the Web Development Bootcamp!
 - **Other Links:** Click to view the notes.
 - **Capstone Projects:** Find all capstone projects in the main repository folder.
 
-We hope this guide helps you navigate through the bootcamp effectively. Happy learning!
+We hope this guide helps you navigate through the bootcamp effectively. 
+
+Happy learning!
 
 ---
 
@@ -36,7 +38,7 @@ We hope this guide helps you navigate through the bootcamp effectively. Happy le
 
 I hope you are doing well.
 
-I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey in completing this project.
+I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey to completing this project.
 
 Your unique way of thinking and exceptional teaching methods have truly made a significant impact on my learning experience. 
 
