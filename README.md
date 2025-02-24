@@ -73,7 +73,9 @@ Ammar Al-Suhaimi
 
 The Web Development Bootcamp will be continuously updated and modified in the future. 
 
-I hope you enjoy everything I upload as part of my journey. This course will take time to finish and also take time to organize and upload. 
+I hope you enjoy everything I upload as part of my journey. 
+
+This course will take time to finish and also take time to organize and upload. 
 
 Please be patient, and I will do it as soon as possible.
 
