@@ -276,8 +276,8 @@ Please be patient, and I will do it as soon as possible.
 
 2. **Grid Placement - Solutions 1 - 2 - 3**:
    - A. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution1.html)
-   - A1. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution2.html)
-   - A2. [**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution3.html)
+   - A1.[**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution2.html)
+   - A2.[**Deployed Website**](https://ammar-alsuhaimi.github.io/Web-Development-BootCamp/section_10/grid_placement/solution3.html)
    - B. [**Source Code**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_10/grid_placement)
    - C. [**Notes**](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Grid-Placement)
 
