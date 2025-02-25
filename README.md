@@ -63,58 +63,6 @@ This guide is designed to help you navigate the bootcamp and make the most of th
 
 ---
 
-🌟 Welcome to the Web Development Bootcamp! 🚀 
-
-Here's your roadmap to navigating the bootcamp and making the most out of the resources available:
-
-### 📚 Getting Started
-
-#### 📘 Check the Wiki First:
-Visit the Wiki section for detailed notes from:
-- Section 01
-- Section 27
-
-#### 💻 Accessing Projects:
-- **Wiki section numbers** link to project folders (Example: Section 01).
-- **Non-numbered Wiki links** show detailed notes.
-
-#### 🏆 Capstone Projects:
-- Located in **/Capstone Projects**.
-
-### 📋 Summary:
-- **Wiki**: Detailed notes & explanations.
-- **Section Numbers**: Project code access.
-- **Other Links**: Section notes.
-- **Capstone Projects**: Main repository folder.
-
----
-
-### 🌟 Appreciation Note
-Dear Mr. Von Schappler,
-
-I hope you are doing well.
-
-I am writing to express my deepest gratitude for your guidance, support, and unwavering dedication throughout my journey to completing this project.
-
-Your unique way of thinking and exceptional teaching methods have truly made a significant impact on my learning experience.
-
-Your passion for the subject and your commitment to helping your students succeed are truly inspiring. You have a remarkable ability to explain complex concepts in a way that is easy to understand, and your patience and encouragement have been invaluable to me.
-
-With your help, I was able to tackle challenges that I once thought were insurmountable, and I have grown both personally and academically because of your mentorship.
-
-This project would not have been possible without your insights, feedback, and continuous support. Your belief in my abilities gave me the confidence to push myself further and achieve my goals.
-
-I am incredibly grateful for the time and effort you have invested in my success. I would also like to highlight your amazing GitHub channels that provide organized knowledge and helpful resources: **vonschappler** and **code-with-von**.
-
-Thank you once again for being such a remarkable mentor and teacher.
-
-Your guidance has made a lasting impact on my life, and I will always cherish the knowledge and wisdom you have shared with me.
-
-With heartfelt thanks,
-**Ammar Al-Suhaimi**
-
----
-
 ### 🚨 Important Note
 
 And if the above approach doesn't work for you, there's another direct way: I've listed all the projects with notes and code to make it easy for viewers.
