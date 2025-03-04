@@ -1,0 +1,22 @@
+[submodule "CapstoneProjects/personal-cv"]
+	path = CapstoneProjects/personal-cv
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-CV.git
+[submodule "CapstoneProjects/PersonalPortifolio"]
+	path = CapstoneProjects/PersonalPortifolio
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalPortifolio.git
+[submodule "CapstoneProjects/personal-site"]
+	path = CapstoneProjects/personal-site
+	url = https://github.com/ammar-alsuhaimi/WebBootcamp-PersonalSite.git
+
+[submodule "section_27/using_gitclone/MSI-Home-Page-Clone"]
+	path = section_27/using_gitclone/MSI-Home-Page-Clone
+	url = https://github.com/Mostafa-Nafie/MSI-Home-Page-Clone.git
+[submodule "section_27/using_gitclone/using_gitclone"]
+	path = section_27/using_gitclone/using_gitclone
+	url = https://github.com/alto-io/game3.js.git
+[submodule "section_27/using_gitclone/game3.js"]
+	path = section_27/using_gitclone/game3.js
+	url = https://github.com/alto-io/game3.js.git
+[submodule "section_28/api-example-bored-api"]
+	path = section_28/api-example-bored-api
+	url = https://github.com/appbrewery/api-example-bored-api.git
