@@ -20,3 +20,6 @@
 [submodule "section_28/section_28/api-example-bored-api"]
 	path = section_28/section_28/api-example-bored-api
 	url = https://github.com/appbrewery/api-example-bored-api.git
+[submodule "section_28/api-example-bored-api"]
+	path = section_28/api-example-bored-api
+	url = https://github.com/appbrewery/api-example-bored-api.git
