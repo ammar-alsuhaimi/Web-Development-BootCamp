@@ -17,3 +17,6 @@
 [submodule "section_27/using_gitclone/game3.js"]
 	path = section_27/using_gitclone/game3.js
 	url = https://github.com/alto-io/game3.js.git
+[submodule "section_28/section_28/api-example-bored-api"]
+	path = section_28/section_28/api-example-bored-api
+	url = https://github.com/appbrewery/api-example-bored-api.git
