@@ -541,7 +541,7 @@ Here's **the second**, more direct way, where I've listed all the projects with 
 3. **🔄 Axios**  
    - [🌐 Live Demo]()
    - [💻 Code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_28/axios_)  
-   - [📖 Json Docs](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Making-Server-Side-API-Requests-with-Axios)
+   - [📖 Axios Docs](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Making-Server-Side-API-Requests-with-Axios)
 
 ---
 
