@@ -544,7 +544,7 @@ Here's **the second**, more direct way, where I've listed all the projects with 
    - [📖 Axios Docs](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Making-Server-Side-API-Requests-with-Axios)
 
 4. **🔄 API-Authentication**  
-   - [🌐 Live Demo]()
+   - [🌐 Live Demo](https://api-authentication-wfp8.onrender.com/)
    - [💻 Code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_28/api-authentication)  
    - [📖 API-Authentication Docs](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/API-authentication)
 
