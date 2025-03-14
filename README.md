@@ -530,7 +530,7 @@ Here's **the second**, more direct way, where I've listed all the projects with 
 #### 📂 Section 28: Application Program Interfaces (APIs)
 1. **📂 API-Example-Bored-api**  
    - [🌐 Live Demo](https://api-example-bored-api-njbz.onrender.com/)  
-   - [💻 Code](https://github.com/appbrewery/api-example-bored-api/tree/fa120b1b66150626defd29b797cacc7f25e960e2)  
+   - [💻 Code](https://github.com/ammar-alsuhaimi/api-example-bored-api)  
    - [📖 api-example-bored-api Guide](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Structuring-API-Requests)
 
 2. **🔄 Json**  
