@@ -528,7 +528,7 @@ Here's **the second**, more direct way, where I've listed all the projects with 
 ---
 
 #### 📂 Section 28: Application Program Interfaces (APIs)
-1. **📂 api-example-bored-api**  
+1. **📂 API-Example-Bored-api**  
    - [🌐 Live Demo](https://api-example-bored-api-njbz.onrender.com/)  
    - [💻 Code](https://github.com/appbrewery/api-example-bored-api/tree/fa120b1b66150626defd29b797cacc7f25e960e2)  
    - [📖 api-example-bored-api Guide](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Structuring-API-Requests)
@@ -547,6 +547,11 @@ Here's **the second**, more direct way, where I've listed all the projects with 
    - [🌐 Live Demo](https://api-authentication-wfp8.onrender.com/)
    - [💻 Code](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/tree/main/section_28/api-authentication)  
    - [📖 API-Authentication Docs](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/API-authentication)
+
+5. **🔄 API-Example-Secrets-api**  
+   - [🌐 Live Demo](https://secrets-api.appbrewery.com/)
+   - [💻 Code](../WebDevelopmentBootcamp/section_28/api-example-secrets-api/)  
+   - [📖 Api-Example-Secrets-Api](./wiki/api-example-secrets-api) 
 
 
 ---
