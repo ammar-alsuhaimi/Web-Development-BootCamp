@@ -531,7 +531,7 @@ Here's **the second**, more direct way, where I've listed all the projects with 
 1. **📂 API-Example-Bored-api**  
    - [🌐 Live Demo](https://api-example-bored-api-njbz.onrender.com/)  
    - [💻 Code](https://github.com/ammar-alsuhaimi/api-example-bored-api)  
-   - [📖 api-example-bored-api Guide](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Structuring-API-Requests)
+   - [📖 api-example-bored-api Guide](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/Structuring-API-Requests-(api-example-bored-api))
 
 2. **🔄 Json**  
    - [🌐 Live Demo](https://json-pspp.onrender.com/)
