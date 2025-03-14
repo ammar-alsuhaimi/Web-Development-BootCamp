@@ -550,8 +550,8 @@ Here's **the second**, more direct way, where I've listed all the projects with 
 
 5. **🔄 API-Example-Secrets-api**  
    - [🌐 Live Demo](https://secrets-api.appbrewery.com/)
-   - [💻 Code](../WebDevelopmentBootcamp/section_28/api-example-secrets-api/)  
-   - [📖 Api-Example-Secrets-Api](./wiki/api-example-secrets-api) 
+   - [💻 Code](https://github.com/ammar-alsuhaimi/api-example-secrets-api/tree/763295727adf8094a67d0ad656390ca6564d3327)  
+   - [📖 Api-Example-Secrets-Api](https://github.com/ammar-alsuhaimi/Web-Development-BootCamp/wiki/api-example-secrets-api) 
 
 
 ---
