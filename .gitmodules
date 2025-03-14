@@ -23,3 +23,6 @@
 [submodule "section_28/api-example-bored-api"]
 	path = section_28/api-example-bored-api
 	url = https://github.com/ammar-alsuhaimi/api-example-bored-api.git
+[submodule "section_28/api-example-secrets-api"]
+	path = section_28/api-example-secrets-api
+	url = https://github.com/ammar-alsuhaimi/api-example-secrets-api.git
