@@ -527,7 +527,7 @@ Here's **the second**, more direct way, where I've listed all the projects with 
 
 ---
 
-#### 📂 Section 28: Application Prgram Interfaces (APIs)
+#### 📂 Section 28: Application Program Interfaces (APIs)
 1. **📂 api-example-bored-api**  
    - [🌐 Live Demo](https://api-example-bored-api-njbz.onrender.com/)  
    - [💻 Code](https://github.com/appbrewery/api-example-bored-api/tree/fa120b1b66150626defd29b797cacc7f25e960e2)  
